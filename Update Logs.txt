@@ -1,0 +1,15 @@
+Version 1.3:
+- Added settings
+- Added music
+
+Version 1.2:
+- Added buying system
+- Added animation
+
+Version 1.1:
+- Added more art
+- Added multiplier 
+
+Version 1.0:
+- Added UI
+- Added cookie system
